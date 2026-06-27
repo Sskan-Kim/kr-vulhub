@@ -73,7 +73,7 @@
         - Contributor: [@idealinsane](https://github.com/idealinsane) | Risk Score: 9.1 (Reproducibility: 85%)
 
 - **Nginx** — 고성능 웹 서버 / 리버스 프록시
-    - [CVE-2017-7529](./nginx/CVE-2017-7529/README.md) — Nginx Integer Overflow Vulnerability
+    - [CVE-2017-7529](./Nginx/CVE-2017-7529/README.md) — Nginx Integer Overflow Vulnerability
         - Contributor: [@c0dep1ayer](https://github.com/c0dep1ayer) | Risk Score: 7.5 (Reproducibility: 75%)
 
 - **Node** — JavaScript 런타임 환경
